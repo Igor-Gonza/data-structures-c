@@ -3,3 +3,7 @@
 
 # VS Code settings
 .vscode/
+
+# VS Code's temp runner files
+tempCodeRunnerFile.c
+tempCodeRunnerFile.exe
